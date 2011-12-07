@@ -3,6 +3,6 @@
   "version": "0.0.1",
   "description": "node.js 실험프로젝트",
   "dependencies": { "express": "2.5.1" },
-  "scripts": {"start": "node build/server.js"}
+  "scripts": {"start": "node build/app.js"}
 }
 
