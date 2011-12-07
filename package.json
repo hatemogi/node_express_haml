@@ -1,5 +1,5 @@
 {
-  "name": "node-haml",
+  "name": "node-express-haml",
   "version": "0.0.1",
   "description": "node.js 실험프로젝트",
   "dependencies": { "express": "*" },
