@@ -2,7 +2,7 @@
   "name": "node-express-haml",
   "version": "0.0.1",
   "description": "node.js 실험프로젝트",
-  "dependencies": { "express": "*" },
+  "dependencies": { "express": "2.5.1" },
   "scripts": {"start": "node build/server.js"}
 }
 
