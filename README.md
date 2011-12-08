@@ -21,8 +21,7 @@ console.log('Server running at http://127.0.0.1:1337/');
 ## Express
 
 아주 간단한 코드로, HTTP서버를 만들어 띄울 수 있습니다. 게다가, 웹개발자라면 익숙한 자바스크립트로 할 수 있으니 큰 부담이 없죠. 
-실제 웹서비스를 만들려면, 라우팅 처리도 하고 템플릿처리도 하려하면, 일일이 
-제 경우에는 웹서비스를 개발할 때, 서버측 프로그래밍을 위해 Ruby의 [Sinatra](http://www.sinatrarb.com/)라는 웹프레임워크를 즐겨 쓰는데요, [node.js](http://nodejs.org/)의 경우에도 비슷한 프레임워크가 있더군요. 바로 [express](http://expressjs.com/)이고, node.js위에서 웹서비스를 손쉽게 만들어 올릴 수 있습니다. 
+실제 웹서비스를 만들려면, 라우팅 처리도 하고 템플릿처리도 하려하면, 적당한 프레임워크를 가져다 쓰게됩니다. 제 경우에는 웹서비스를 개발할 때, 서버측 프로그래밍을 위해 Ruby의 [Sinatra](http://www.sinatrarb.com/)라는 웹프레임워크를 즐겨 쓰는데요, [node.js](http://nodejs.org/)의 경우에도 비슷한 프레임워크가 있더군요. 바로 [express](http://expressjs.com/)이고, node.js위에서 웹서비스를 손쉽게 만들어 올릴 수 있습니다. 
 
 ## CoffeeScript
 
